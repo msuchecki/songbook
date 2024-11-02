@@ -23,10 +23,10 @@ Czy [D0]słońca [A7]żar, [A0][A7] czy [D0]chłodna [D]noc,
 Pro[f#]wadzi [E7]nas [E97]pod [E67]og[E7]niem z [A7]luf. [A0] [A7]
 {eoc}
 {soc}
-Ten pierwszy marsz to właśnie zew,
-Niech brzmi i trwa przy huku dział,
-Batalion gdzieś rozpoczął szturm,
-Spłynęła łza i pierwszy strzał!
+Ten pierwszy [D]marsz to [G]właśnie [D]zew,
+Niech brzmi i [G]trwa przy huku [D]dział,
+Ba[D0]talion [A7]gdzieś [A0][A7] [D0]rozpoczął [D]szturm,
+Spł[f#]ynęła [E7]łza [E97]i [E67] pierwszy [A7]strzał![A0] [A7]
 {eoc}
 
 Niech wiatr ją poniesie do miasta,
