@@ -2,7 +2,7 @@
 {define-Ukulele_C: Cmaj7 0 0 0 0 2}
 {define-Guitar: Cmaj7 0 0 3 2 0 0 0}
 {scale:90}
-{soh}
+# {soh}
 
 1. [Cmaj7]Deszcz, jesienny [C7]deszcz, [F]smutne pieśni [Cmaj7]gra.
 [Dm7]Mokną na nim [Cmaj7]karabiny, [G7]hełmy kryje [Cmaj7]rdza.

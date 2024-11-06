@@ -1,4 +1,5 @@
 {title:Chłopcy silni jak stal}
+{scale:90}
 
 1. Chłopcy [d]si[A7]lni jak st[d]al,
 

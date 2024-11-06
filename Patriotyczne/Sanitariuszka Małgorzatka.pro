@@ -5,7 +5,7 @@ Mieszkała [Bb]gdzieś w A[G7]lei [c7]Róż,
 Miała pokoik z [G7]dużą [c7]wanną,
 Pieska pin[F7]czerka, no i ju[Bb]ż.  [Fis5]   
 
-I panto[Bb]felki G7na ko[c7]turnach [F7]  
+I panto[Bb]felki [G7]na ko[c7]turnach [F7]  
 I to, i [Bb]owo, [Bb7]względnie, l[E7]ub,
 Trochę prze[Bb7]korna i czupurna
 I tylko "[c7]Mewa" [F7] albo "Kl[Bb]ub"

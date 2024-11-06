@@ -22,6 +22,7 @@ niech brzmi i trw[G]a przy huku dz[D]iał,
 batalion gdz[A7]ieś rozpoczął szt[D]urm,
 spłynęła łz]a i p[A7]ierwszy strz[D]ał!
 {eoc}
+
 2. Niech wiatr ją poniesie do miasta
 jak żagiew płonącą i krwawą,
 niech w górze zawiśnie na gwiazdach,
