@@ -1,0 +1,1 @@
+{title:Pokój i dobro}
