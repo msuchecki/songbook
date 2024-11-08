@@ -1,5 +1,5 @@
 {title:Marsz Mokotowa (uproszczone)}
-{scale:90}
+{scale:92}
 1. Nie gr[D]ają nam surmy bojowe
 i w[G]erble do szt[Em7]urmu nie w[D]arczą, [D7]
 nam prz[G]ecież te n[Em7]oce sierpn[D]iowe

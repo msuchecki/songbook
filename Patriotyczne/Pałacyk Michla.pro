@@ -1,5 +1,5 @@
 {title:Pałacyk Michla}
-{scale:74}
+{scale:100}
 
 Pałacyk [F]Michla, Żytnia, Wola,   [D7]  
 Bronią się [g]chłopcy[C7] od "Para[F]sola",

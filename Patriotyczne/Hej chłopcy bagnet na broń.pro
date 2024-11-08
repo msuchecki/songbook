@@ -1,6 +1,8 @@
 {title:Hej chłopcy bagnet na broń}
-{scale:90}
+{scale:100}
 {define-Guitar: Fis0 0 2 0 0 2 1 0}
+{define-Guitar: Fis0 0 0 0 1 2 1 2}
+
 {soc}
 Hej, [C]chłopcy, [G7]bagnet na [C]broń! [C7]  
 Długa [F]droga [Fis0]daleka, przed [C/G]nami,   [C7]  

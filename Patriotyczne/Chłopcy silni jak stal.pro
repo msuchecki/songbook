@@ -1,5 +1,5 @@
 {title:Chłopcy silni jak stal}
-{scale:90}
+{scale:100}
 
 1. Chłopcy [d]si[A7]lni jak st[d]al,
 
@@ -32,6 +32,8 @@ Hej, do [d]walki nie [A7]zbraknie nam [d]sił!
 [A7]Pośród [d]kul, huku dział
 
 [D7]oddział [g]stoi[D7] jak [g]stał,
+
+
 
 [Bb]choć po[F]le[A7]gła już [d]chłopców [F]połowa.
 
