@@ -1,4 +1,5 @@
 {title:Marsz Mokotowa (uproszczone)}
+{tact:4/4}
 {scale:92}
 1. Nie gr[D]ają nam surmy bojowe
 i w[G]erble do szt[Em7]urmu nie w[D]arczą, [D7]

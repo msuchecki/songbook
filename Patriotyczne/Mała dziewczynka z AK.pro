@@ -1,4 +1,5 @@
 {title:Mała dziewczynka z AK}
+{tact:4/4}
 {define-Ukulele_C:Bb0 0 3 1 0 1}
 # {define-Ukulele_C:F0 0 1 5 1 2}
 # zamieniam F0 (czyli Fdim) na Fdim7

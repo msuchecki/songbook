@@ -1,4 +1,5 @@
 {title:Sanitariuszka Małgorzatka}
+{tact:4/4}
 
 Przed akcją [Bb]była [G7]skromną [c7]panną, [F7]  
 Mieszkała [Bb]gdzieś w A[G7]lei [c7]Róż,

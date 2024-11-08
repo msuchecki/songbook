@@ -1,4 +1,5 @@
 {title:Hej chłopcy bagnet na broń}
+{tact:4/4}
 {scale:100}
 {define-Guitar: Fis0 0 2 0 0 2 1 0}
 {define-Guitar: Fis0 0 0 0 1 2 1 2}

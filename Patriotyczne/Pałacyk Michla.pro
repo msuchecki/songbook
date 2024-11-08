@@ -1,4 +1,5 @@
 {title:Pałacyk Michla}
+{tact:4/4}
 {scale:100}
 
 Pałacyk [F]Michla, Żytnia, Wola,   [D7]  

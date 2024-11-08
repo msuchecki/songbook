@@ -1,4 +1,5 @@
 {title:Modlitwa Armii Krajowej}
+{tact:4/4}
 
 O, Panie, któryś jest na niebie,
 Wyciągnij sprawiedliwą dłoń!

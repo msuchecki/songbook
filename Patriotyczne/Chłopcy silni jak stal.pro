@@ -1,4 +1,5 @@
 {title:Chłopcy silni jak stal}
+{tact:4/4}
 {scale:100}
 
 1. Chłopcy [d]si[A7]lni jak st[d]al,

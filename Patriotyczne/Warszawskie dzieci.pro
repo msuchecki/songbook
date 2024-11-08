@@ -1,4 +1,5 @@
 {title:Warszawskie dzieci}
+{tact:6/8}
 {capo:1}
 {define-Guitar: Dis7 1 0 0 1 3 2 3}
 {define-Guitar: Fis0 0 0 0 1 2 1 2}

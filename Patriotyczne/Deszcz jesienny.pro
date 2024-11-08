@@ -1,4 +1,5 @@
 {title:Deszcz jesienny}
+{tact:3/4}
 {define-Ukulele_C: Cmaj7 0 0 0 0 2}
 {define-Guitar: Cmaj7 0 0 3 2 0 0 0}
 {scale:90}
