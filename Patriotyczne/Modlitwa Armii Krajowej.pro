@@ -1,29 +1,31 @@
 {title:Modlitwa Armii Krajowej}
 {tact:4/4}
+{transpose:2}
 
-O, Panie, któryś jest na niebie,
-Wyciągnij sprawiedliwą dłoń!
-Wołamy z wszystkich stron do Ciebie,
-O polski dach i polską broń.
+
+O, [C]Panie, któryś jest na [G]niebie,
+Wy[G]ciągnij sprawiedliwą [C]dłoń!
+Wo[C]łamy z wszystkich stron do [G]Ciebie,
+O [G]polski dach i polską b[C]roń.
 
 
 {soc}
-O Boże, skrusz ten miecz, co siecze kraj,
-Do wolnej Polski nam powrócić daj!
-By stał się twierdzą nowej siły,
-Nasz dom, nasz kraj.
+O [F]Boże, skrusz ten miecz, co [G]siecze [C]kraj,
+Do [F]wolnej Polski nam po[G]wrócić [C]daj!
+By [C]stał się twierdzą nowej [G]siły,
+Nasz [G]dom, nasz k[C]raj.
 {eoc}
 
 
-O usłysz, Panie, skargi nasze,
-O usłysz nasz tułaczy śpiew!
-Znad Warty, Wisły, Sanu Bugu,
-Męczeńska do Cię woła krew!
+O [C]usłysz, Panie, skargi [G]nasze,
+O [G]usłysz nasz tułaczy [C]śpiew!
+Znad [C]Warty, Wisły, Sanu [G]Bugu,
+Mę[G]czeńska do Cię woła k[C]rew!
 
 
 {soc}
-O Boże, skrusz ten miecz, co siecze kraj,
-Do wolnej Polski nam powrócić daj!
-By stał się twierdzą nowej siły,
-Nasz dom, nasz kraj.
+O [F]Boże, skrusz ten miecz, co [G]siecze [C]kraj,
+Do [F]wolnej Polski nam po[G]wrócić [C]daj!
+By [C]stał się twierdzą nowej [G]siły,
+Nasz [G]dom, nasz k[C]raj.
 {eoc}

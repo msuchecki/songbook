@@ -19,7 +19,7 @@
 [Gis]Powiśle, Wola i Mokotów,
 [f]Ulica każda, każdy dom –
 [Cis]Gdy padnie pierwszy strzał, bądź gotów,
-[Bb7]Jak w ręku Boga złoty Dis7grom.
+[Bb7]Jak w ręku Boga złoty [Dis7]grom.
 
 {soc}
 [Gis]Warszawskie dzieci, pójdziemy w bój,
@@ -31,7 +31,7 @@
 [Gis]Od piły, dłuta, młota, kielni –
 [f]Stolico, synów swoich sław,
 [Cis]Że stoją wraz przy Tobie wierni,
-[Bb7]Na straży Twych żelaznych Dis7praw.
+[Bb7]Na straży Twych żelaznych [Dis7]praw.
 
 {soc}
 [Gis]Warszawskie dzieci, pójdziemy w bój,
@@ -43,7 +43,7 @@
 [Gis]Poległym chwała, wolność żywym,
 [f]Niech płynie w niebo dumny śpiew,
 [Cis]Wierzymy, że nam Sprawiedliwy,
-[Bb7]Odpłaci za przelaną Dis7krew.
+[Bb7]Odpłaci za przelaną [Dis7]krew.
 
 {soc}
 [Gis]Warszawskie dzieci, pójdziemy w bój,

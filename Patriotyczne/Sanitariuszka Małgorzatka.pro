@@ -1,7 +1,7 @@
 {title:Sanitariuszka Małgorzatka}
 {capo:3}
 {tact:4/4}
-{define-Guitar: Dis5 0 X X 1 3 4 0}
+{define-Guitar: Dis5 0 X X 1 3 4 0}	
 
 Przed akcją [Bb]była [G7]skromną [c7]panną, [F7]  
 Mieszkała [Bb]gdzieś w A[G7]lei [c7]Róż,
@@ -15,7 +15,7 @@ I tylko "[c7]Mewa" [F7] albo "Kl[Bb]ub"
 
 Na plażę [A0]biegła [D7]wczesnym [g]rankiem,
 Aby o[A0]palić [D7]wierzch i sp[g]ód,
-Dzisiaj [G7]opala [C7] się j[Fis5]unakiem
+Dzisiaj [Gm7]opala [C7] się j[F5]unakiem
 I razem z [C7]nami spija m[F7]iód.
 
 Sanita[Bb]riuszka [G7]"Małgo[c7]rzatka" [F7]
