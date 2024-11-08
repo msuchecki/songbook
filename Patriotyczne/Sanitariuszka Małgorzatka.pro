@@ -1,5 +1,7 @@
 {title:Sanitariuszka Małgorzatka}
+{capo:3}
 {tact:4/4}
+{define-Guitar: Dis5 0 X X 1 3 4 0}
 
 Przed akcją [Bb]była [G7]skromną [c7]panną, [F7]  
 Mieszkała [Bb]gdzieś w A[G7]lei [c7]Róż,
