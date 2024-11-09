@@ -18,10 +18,10 @@ czy słońca ż[A7]ar, czy chłodna n[D]oc,
 prowadzi n[E7]as pod ogniem z l[A7]uf.
 {eoc}
 {soc}
-Ten p[]ierwszy m[D]arsz to wł[G]aśnie z[D]ew,
+Ten pierwszy m[D]arsz to wł[G]aśnie z[D]ew,
 niech brzmi i trw[G]a przy huku dz[D]iał,
 batalion gdz[A7]ieś rozpoczął szt[D]urm,
-spłynęła łz]a i p[A7]ierwszy strz[D]ał!
+spłynęła łz[e7]a i p[A7]ierwszy strz[D]ał!
 {eoc}
 
 2. Niech wiatr ją poniesie do miasta

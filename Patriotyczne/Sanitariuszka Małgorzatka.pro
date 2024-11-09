@@ -15,7 +15,7 @@ I tylko "[c7]Mewa" [F7] albo "Kl[Bb]ub"
 
 Na plażę [A0]biegła [D7]wczesnym [g]rankiem,
 Aby o[A0]palić [D7]wierzch i sp[g]ód,
-Dzisiaj [Gm7]opala [C7] się j[F5]unakiem
+Dzisiaj [Gm7]opala [C7] się j[F#5]unakiem
 I razem z [C7]nami spija m[F7]iód.
 
 Sanita[Bb]riuszka [G7]"Małgo[c7]rzatka" [F7]

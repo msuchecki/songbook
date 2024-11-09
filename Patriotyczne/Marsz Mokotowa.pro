@@ -26,7 +26,7 @@ Pro[f#]wadzi [E7]nas [E97]pod [E67]og[E7]niem z [A7]luf. [A0] [A7]
 Ten pierwszy [D]marsz to [G]właśnie [D]zew,
 Niech brzmi i [G]trwa przy huku [D]dział,
 Ba[D0]talion [A7]gdzieś [A0][A7] [D0]rozpoczął [D]szturm,
-Spł[f#]ynęła [E7]łza [E97]i [E67] pierwszy [A7]strzał![A0] [A7]
+[Bb7]Spłynęła [e7]łza i [E7] pierwszy [A7]strzał![G7] [D]
 {eoc}
 
 Niech wiatr ją poniesie do miasta,
