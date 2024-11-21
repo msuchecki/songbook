@@ -5,6 +5,12 @@
 # zamieniam F0 (czyli Fdim) na Fdim7
 {define-Ukulele_C:F0 0 1 2 1 2}
 {define-Ukulele_C:Bbm6 0 0 1 1 1}
+{define-Guitar:Bb0 0 0 2 3 1 3 0}
+{define-Guitar:Fmaj7 0 X X 3 2 1 0}
+{define-Guitar:C7sus4 3 X 1 3 1 4 1}
+{define-Guitar:F0 0 1 2 3 1 X X}
+
+{define-Guitar:A0 0 X 0 1 2 1 X}
 
 Ta nasza m[Bb0]iłość j[C7]est najdziwn[Fm]iejsza,
 Bo przyszła d[G7]o nas z grzechotem s[Fm]alw,
@@ -20,7 +26,7 @@ Była pios[Bb0]enką, uśmiechem, łz[Fm]ą.
 Moja M[F]ała Dziewcz[C7]ynko z AK[F]a,
 Przyznasz chyba, że to w[D7]ielka była gr[Gm7]a,
 Takie różne były k[D7]ońce naszych dr[Gm7]óg
-I nie w[G7]ierzę, bym Cię znowu ujrzeć m[C7]ógł.
+I nie w[G7]ierzę, bym Cię znowu ujrzeć m[C7sus4]ógł. [C7]
 Choć na dw[F]orze była jesień, u mnie wiosna,
 I bez trw[Bb]ogi, że dok[Bb0]oła płonął św[F]iat, [D7]
 Tak na wskr[Gm7]oś Cię przecież wt[C7]edy chciałem p[Fmaj7]oznać, [D7]
