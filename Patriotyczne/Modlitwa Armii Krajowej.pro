@@ -7,7 +7,7 @@
 O, [C]Panie, któryś jest na [G]niebie,
 Wy[G7]ciągnij sprawiedliwą [C]dłoń!
 Wo[C]łamy z wszystkich stron do [G]Ciebie,
-O [G&]polski dach i polską b[C]roń.
+O [G7]polski dach i polską b[C]roń.
 
 
 {soc}
